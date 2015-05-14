@@ -1,0 +1,12 @@
+Declarabel
+Uren a 125%
+Uren a 150%
+Uren a 200%
+Piketdienst
+Standby uren
+Vakantie / Verlof
+Bijzonder Verlof
+Ziek
+Niet declarabel
+Leegloop
+Feestdagen
